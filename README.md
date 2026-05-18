@@ -1,10 +1,9 @@
-# SCT_CYBER 02
+
 
 ---
 
 # Image Encryption Tool (Pixel Manipulation)
 
-**Task 02** for Cyber Security Internship at SkillCraft Technology.
 
 ## 🗝️ Objective
 Build a simple tool to encrypt/decrypt images by:
@@ -25,16 +24,6 @@ Build a simple tool to encrypt/decrypt images by:
 
 3. Follow prompts to encrypt or decrypt an image.
 
-## ✅ Status
-- [x] Task Completed
-- [x] Public Repo Created
-- [x] LinkedIn Post Done
-
-## 📌 Internship Info
-- **Track:** Cyber Security
-- **Internship:** SkillCraft Technology – July 2025
-
-#SkillCraftTechnology
 
 ---
 
